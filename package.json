@@ -1,0 +1,15 @@
+{
+  "name": "twitter_pkg",
+  "version": "1.0.0",
+  "description": "A project that will load tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node twitter-example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
